@@ -3,7 +3,7 @@ Esse é um site do multiverso Spider-Man , o qual conseguimos ver imagens de aco
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="/results/IMAGE 1.png" width="260">&emsp;<img src="/results/IMAGE2.png" width="260">&emsp;<img src="/results/IMAGE 3.png" width="260">
+<img src="/results/image1.png" width="260">&emsp;<img src="/results/image2.png" width="260">&emsp;<img src="/results/image3.png" width="260">
 
 ## Tecnologias
 * HTML
